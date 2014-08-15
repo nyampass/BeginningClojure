@@ -7,6 +7,12 @@
 * luminus-sample ... 8章で作成したLuminusのサンプル
 * shorter ... URL短縮サービス
 
+# 正誤表
+
+本文中における下記の部分が間違っておりました。お詫びして訂正いたします。
+
+[正誤表PDF](https://raw.githubusercontent.com/nyampass/BeginningClojure/master/errata.pdf)
+
 ## URL短縮サービス
 
 src/shorter/models/には各章ごとのlinks.cljが存在しますので、利用したいファイルを、links.cljという名前で上書きして使ってください。
